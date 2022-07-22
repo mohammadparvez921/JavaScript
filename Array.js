@@ -112,12 +112,33 @@
 
 
 
-let fruits = ["Apple", "Orange", "Pear"];
-// console.log(fruits[0]);
-// console.log(fruits[1]);
-// console.log(fruits[2]);
-let i=0;
-for(;i<fruits.length;){
-    console.log(fruits[i]);
-    i++;
-}
+// let fruits = ["Apple", "Orange", "Pear"];
+// // console.log(fruits[0]);
+// // console.log(fruits[1]);
+// // console.log(fruits[2]);
+// let i=0;
+// for(;i<fruits.length;){
+//     console.log(fruits[i]);
+//     i++;
+// }
+
+
+// let fruits = ["Apple", "Orange", "Plum"];
+
+// // iterates over array elements
+// for (let haathi of fruits) {
+//   console.log( haathi );
+// }
+
+
+
+// let arr = ["Apple", "Orange", "Pear"];
+// //for in gives index of the array
+// for (let ghoda in arr) {
+//   console.log( arr[ghoda] ); // Apple, Orange, Pear
+// }
+
+
+let arr=[1,2,3,4]
+arr[100]=36;//[1,2,3,4,.............36]
+console.log(arr[101]);
