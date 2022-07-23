@@ -139,6 +139,29 @@
 // }
 
 
-let arr=[1,2,3,4]
-arr[100]=36;//[1,2,3,4,.............36]
-console.log(arr[101]);
+// let arr=[1,2,3,4]
+// arr[100]=36;//[1,2,3,4,.............36]
+// console.log(arr[101]);
+
+// console.log(3/2-0.5);
+
+// let arr=[1,2,3,4,5]
+// let arr2=[1,3,4]
+
+// let middle=arr.length/2-0.5;
+// arr[middle]=7;
+// middle=arr2.length/2-0.5;
+// arr2[middle]=8;
+// console.log(arr);
+// console.log(arr2);
+
+
+// for(let i=0;i<=100;i+=2){
+//     if(i!=0){
+// console.log(i);
+//     }
+// }
+
+
+
+
