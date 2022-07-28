@@ -162,6 +162,11 @@
 //     }
 // }
 
+// let fruits = ["Apple", "Orange", "Plum"];
+
+// // same as fruits[fruits.length-1]
+// console.log( fruits.at(-1) ); // Plum
+
 
 
 
